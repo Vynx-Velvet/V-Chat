@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/V-Chat/static/css/main.c0285855.css",
+    "main.js": "/V-Chat/static/js/main.0cc2ec6e.js",
+    "static/js/453.0a142e0c.chunk.js": "/V-Chat/static/js/453.0a142e0c.chunk.js",
+    "index.html": "/V-Chat/index.html",
+    "main.c0285855.css.map": "/V-Chat/static/css/main.c0285855.css.map",
+    "main.0cc2ec6e.js.map": "/V-Chat/static/js/main.0cc2ec6e.js.map",
+    "453.0a142e0c.chunk.js.map": "/V-Chat/static/js/453.0a142e0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0285855.css",
+    "static/js/main.0cc2ec6e.js"
+  ]
+}
