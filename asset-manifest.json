@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/V-Chat/static/css/main.457c273a.css",
-    "main.js": "/V-Chat/static/js/main.e5a2f315.js",
+    "main.css": "/V-Chat/static/css/main.a924e512.css",
+    "main.js": "/V-Chat/static/js/main.3e1433c2.js",
     "static/js/453.0a142e0c.chunk.js": "/V-Chat/static/js/453.0a142e0c.chunk.js",
     "index.html": "/V-Chat/index.html",
-    "main.457c273a.css.map": "/V-Chat/static/css/main.457c273a.css.map",
-    "main.e5a2f315.js.map": "/V-Chat/static/js/main.e5a2f315.js.map",
+    "main.a924e512.css.map": "/V-Chat/static/css/main.a924e512.css.map",
+    "main.3e1433c2.js.map": "/V-Chat/static/js/main.3e1433c2.js.map",
     "453.0a142e0c.chunk.js.map": "/V-Chat/static/js/453.0a142e0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.457c273a.css",
-    "static/js/main.e5a2f315.js"
+    "static/css/main.a924e512.css",
+    "static/js/main.3e1433c2.js"
   ]
 }
